@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="db.sqlite3" type="DatabaseScript" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/db.sqlite3" />
+    <script-file value="$PROJECT_DIR$/db.sqlite3" />
+    <script-mode>FILE</script-mode>
+    <data-source id="600d0e5d-8f0a-4c99-bd1d-299953d0ba7c" />
+    <method v="2" />
+  </configuration>
+</component>

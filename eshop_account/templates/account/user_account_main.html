@@ -1,0 +1,16 @@
+{% extends 'shared/_MainLayout.html' %}
+{% load render_partial %}
+
+{% block title %}
+    <title>پنل کاربری</title>
+{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8"></div>
+            {% render_partial 'eshop_account.views.user_side_bar' %}
+        </div>
+    </div>
+    </div>
+{% endblock %}
